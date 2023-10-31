@@ -1,6 +1,6 @@
 
 An audiophile currently based in Miami, Florida.
 
-📼 I am an audio technology enthusiast, particularly invested in Game Audio Programming and Implementation. Also highly invested in the field of Spatial and 3D Audio, and its applications in AR/VR.
+📼 I am an audio technology enthusiast, particularly invested in Game Audio Programming and Implementation. Also highly invested in Spatial and 3D Audio, and its applications in AR/VR.
 
-📼 I'm currently pursuing a Master's degree in Music Engineering Technology from the University of Miami, Coral Gables, where I've had the opportunity to better my software skills and to apply my learnings in the form of designing audio plugins and applications.
+📼 I'm pursuing a Master's degree in Music Engineering Technology from the University of Miami, Coral Gables, with coursework in Audio Signal Processing and Audio Software Development, Acoustics, Psychoacoustics, Transducers, and AI/ML in Music. I am an XR Software Developer specializing in Audio for the University of Miami's XR Studio.
